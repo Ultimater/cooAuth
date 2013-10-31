@@ -1,0 +1,4 @@
+cooAuth
+=======
+
+Legacy PHP Auth
